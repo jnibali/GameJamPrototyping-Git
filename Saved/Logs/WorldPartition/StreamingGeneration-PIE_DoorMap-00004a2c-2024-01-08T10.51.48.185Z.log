@@ -1,0 +1,56 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Blueprints/DoorMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:3348ABC44A8A15F52D774C8F19A76728 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0000D44B303490CD01_1797107992 Label:puertaMadera_placa SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-53.251 Y=-17.378 Z=3.023), Max=(X=52.554 Y=16.708 Z=215.514) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:37AAC46B4427A9E01BA476B3954F3261 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0000D44B303490CD01_1797108993 Label:puertaMadera_marco SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-63.790 Y=0.838 Z=0.000), Max=(X=63.790 Y=17.378 Z=226.116) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3AB1B5594159CEAB3B466FAA9474E904 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3348ABC44A8A15F52D774C8F19A76728 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0000D44B303490CD01_1797107992 Label:puertaMadera_placa SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-53.251 Y=-17.378 Z=3.023), Max=(X=52.554 Y=16.708 Z=215.514) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:37AAC46B4427A9E01BA476B3954F3261 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0000D44B303490CD01_1797108993 Label:puertaMadera_marco SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-63.790 Y=0.838 Z=0.000), Max=(X=63.790 Y=17.378 Z=226.116) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:3AB1B5594159CEAB3B466FAA9474E904 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Blueprints/DoorMap
+----------------------------------------------------------------------------------------------------------------
+DoorMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of DoorMap Persistent Level
+ |- Always loaded Actor Count: 7 
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Blueprints/DoorMap
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Blueprints/DoorMap
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.StaticMeshActor_UAID_0000D44B303490CD01_1797107992
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Blueprints/DoorMap/A/54/N3PD41IQTGAWW9XWU8SOYJ
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.StaticMeshActor_UAID_0000D44B303490CD01_1797108993
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Blueprints/DoorMap/2/PI/B2JUCHIQMCY1Q2W3SC2QYQ
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Blueprints/DoorMap/9/0N/TOPJLWRLLBX8VTAB5GM6KA
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.WorldPartitionMiniMap_UAID_0000D44B303490CD01_1791682991
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Blueprints/DoorMap/9/NF/L8PLCOW4E05K13HQZ8PBVX
+ |- Actor Path: /Game/ThirdPerson/Blueprints/DoorMap.DoorMap:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/ThirdPerson/Blueprints/DoorMap
+
+----------------------------------------------------------------------------------------------------------------
+DoorMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
